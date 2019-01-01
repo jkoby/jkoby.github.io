@@ -1,6 +1,6 @@
-title: Dracula GitHub Pages
+title: "jkoby - Hacker, writer, consultant, etc."
+description: "Writings, ramblings, and various notes."
 show_downloads: false
-google_analytics:
 remote_theme: "dracula/gh-pages"
 show_header: true
 
