@@ -6,3 +6,5 @@ show_header: true
 
 sass:
     style: compressed
+
+theme: jekyll-theme-hacker
